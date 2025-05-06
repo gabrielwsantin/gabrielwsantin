@@ -1,5 +1,6 @@
 ## Hi, I'm Gabriel Santin
-  ❤️ technology lover
+
+💻 technology enthusiast
   
 ##
   Contato
