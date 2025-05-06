@@ -11,7 +11,7 @@
 
 ##
 
-![anime boy](C:\Users\Gabriel\OneDrive\Imagens\;)).gif)
+![animeboy](https://github.com/gabrielwsantin/gabrielwsantin/blob/main/anime-boy-bored-playing-25977uagnvgirk1m.gif?raw=true)
 
           
           
