@@ -28,7 +28,10 @@
 
 ##
 
-![animeboy](https://github.com/gabrielwsantin/gabrielwsantin/blob/main/anime-boy-bored-playing-25977uagnvgirk1m.gif?raw=true)
+<div align="center">
+  <img src="./rayquaza.gif" width="400" alt="Meu GIF"/>
+</div>
+
 
           
           
