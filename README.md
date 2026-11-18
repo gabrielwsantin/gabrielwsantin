@@ -12,6 +12,22 @@
 
 ##
 
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielwsantin&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00c853&icon_color=00c853&text_color=ffffff&ring_color=00c853"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwsantin&layout=compact&hide_border=true&bg_color=0d1117&title_color=00c853&text_color=ffffff"/>
+
+## 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=gabrielwsantin&theme=dark&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853&sideLabels=00C853&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"/>
+
+</div>
+
+##
+
 ![animeboy](https://github.com/gabrielwsantin/gabrielwsantin/blob/main/anime-boy-bored-playing-25977uagnvgirk1m.gif?raw=true)
 
           
